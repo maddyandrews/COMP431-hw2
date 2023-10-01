@@ -1,0 +1,2 @@
+GET /index©.html HTTP/1.0
+ERROR -- Invalid Absolute-Path token.

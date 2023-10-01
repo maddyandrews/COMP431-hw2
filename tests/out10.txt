@@ -1,0 +1,2 @@
+GET /data_test_files/index.html HTTP/1.0.2
+ERROR -- Invalid HTTP-Version token.
